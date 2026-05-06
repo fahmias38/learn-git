@@ -1,3 +1,3 @@
 <?php
 
-echo "Bapnedik wkkwk";
+echo "Bapnedik masuk syurga";
